@@ -1,0 +1,30 @@
+h1, h2 {
+    border-bottom: 1px solid;
+    padding-bottom: .3em;
+    font-size: 2em;
+}
+ h1, h2, h3, h4, h5, h6 {
+    font-weight: 600;
+    line-height: 1.25;
+    margin-bottom: 16px;
+    margin-top: 24px;
+}
+
+dl,  ol,  p, pre, table, ul {
+    margin-bottom: 16px;
+    margin-top: 0;
+}
+
+a {
+    color: #ccc;
+    text-decoration: none;
+}
+
+pre {
+    background-color: #3f4759;
+    border-radius: 6px;
+    font-size: 85%;
+    line-height: 1.45;
+    overflow: auto;
+    padding: 16px;
+}
